@@ -62,7 +62,7 @@ css = Cascading Style sheet. It is not a programming language nor a markup langu
 
 
 
-##JavaScript
+## JavaScript
 
 JavaScript comments:
 + Single line comments: //
