@@ -59,6 +59,13 @@ Several important tags:
 
 css = Cascading Style sheet. It is not a programming language nor a markup language, it is a style sheet language. Apply styles **selectively to elements in HTML documents**. 
 
+We need to apply the CSS to your HTML document. Otherwise, the CSS styling won't affect how your browser displays the HTML document. Open your index.html file and and paste the following line somewhere in the <head></head>
+
+    <link href="styles/style.css" rel="stylesheet" type="text/css">
+
+Save index.html and load it in your browser
+
+
 
 
 
