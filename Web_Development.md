@@ -93,10 +93,10 @@ It is a self-executing anonymous function. The first set of parentheses contain 
 Create a folder structure to connect all of the files above
 
 Main_folder:
-	+ index.html
-	+ styles directory: holding CSS code, styling the content
-	+ script directory: contains all JavaScript code used to add interactive functionality to your site
-	+ images directory: contains the images you use on your website
++ index.html
++ styles directory: holding CSS code, styling the content
++ script directory: contains all JavaScript code used to add interactive functionality to your site
++ images directory: contains the images you use on your website
 
 
 
